@@ -22,3 +22,4 @@
 ## git pull - recebe as atualizações do repositório remoto
 ## git fetch - diz se houve alterações
 * usar git fetch e depois o git diff com o endereço do repositório antes de usar o git push e saber as alterações que serão feitas no arquivo.
+## usando o git push 
