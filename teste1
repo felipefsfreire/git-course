@@ -8,3 +8,9 @@
 # Salvando modificações no GIT
 
 ## git diff - mostra as linhas que foram modificadas
+## git commit -m "nome da alteração" - Salvar o estado do projeto e copartilhar
+
+# Salvando alterações no Git
+
+## git log
+## git restore
