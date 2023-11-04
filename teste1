@@ -12,5 +12,6 @@
 
 # Salvando alterações no Git
 
-## git log
-## git restore
+* git log - exibe histórico do arquivo
+* git restore - quando o arquivo ainda não está em Staged
+* git restore -- staged .\nome_arquivo - quando o arquivo já estiver em staged
