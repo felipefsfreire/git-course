@@ -1,0 +1,10 @@
+# Gravando mudanças no repositório
+
+## testando mudança
+
+## git status - saber o status do arquivo (Untracked, Unmodified, Modified e Staged)
+## git add .\nome_arquivo (ao iniciar o nome do arquivo TAB completa) - quando estamos satisfeitos com as modificações e queremos salvar as modificações da versão.
+
+# Salvando modificações no GIT
+
+## git diff - mostra as linhas que foram modificadas
