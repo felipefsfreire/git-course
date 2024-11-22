@@ -1,4 +1,4 @@
-# Princípios de Desenvolvimento Colaborativo com Git e GitHub  
+# [Princípios de Desenvolvimento Colaborativo com Git e GitHub](https://github.com/felipefsfreire/git-course/blob/master/git_b%C3%A1sico)
 
 Este repositório foi criado para promover boas práticas no desenvolvimento colaborativo, utilizando o **Git** como sistema de controle de versão e o **GitHub** como plataforma de colaboração e hospedagem de código. Aqui você encontrará informações e exemplos para estruturar projetos de forma organizada, segura e eficiente.  
 
