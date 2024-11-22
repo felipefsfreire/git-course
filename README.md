@@ -159,7 +159,7 @@ Repositório Central <--> Cópia Completa (com histórico)
    - Envie para um repositório remoto no GitHub.  
 
 2. **Fluxo de Trabalho em Equipe**  
-   - Clone o repositório [Exemplo Colaborativo](https://github.com/user/exemplo).  
+   - Clone o repositório 
    - Crie uma branch `minha-contribuicao` e adicione uma nova funcionalidade.  
    - Mescle sua branch com a principal e envie as alterações.  
 
